@@ -2,7 +2,12 @@
 
 A production-ready **Character Health State Machine** game built in **Unity 6 (URP)**, featuring an interactive 3D Low-Poly Soccer Stadium, procedural human locomotion animations, dynamic physics ball mechanics, switchable First-Person / Third-Person camera perspectives, synthesized sound effects, and real-time visual FX.
 
+Third Person View
 <img width="1599" height="691" alt="image" src="https://github.com/user-attachments/assets/81007643-c787-42bd-b783-e3076dcd305c" />
+
+First Person View
+<img width="1599" height="690" alt="image" src="https://github.com/user-attachments/assets/db229119-137b-4c85-ab03-1c7b858234f8" />
+
 
 ---
 
