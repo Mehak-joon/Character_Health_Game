@@ -1,4 +1,4 @@
-# ⚽ Topic 2: Character Health State Machine
+# ⚽ Topic: Character Health State Machine
 
 A production-ready **Character Health State Machine** game built in **Unity 6 (URP)**, featuring an interactive 3D Low-Poly Soccer Stadium, procedural human locomotion animations, dynamic physics ball mechanics, switchable First-Person / Third-Person camera perspectives, synthesized sound effects, and real-time visual FX.
 
@@ -36,6 +36,9 @@ This project implements **Topic: Character Health** from the State Machine desig
   * **`H`**: Reduce health level by one step.
   * **`R`**: Reset health back to full `Healthy` state.
 * **Interactive Mini-Game**: Built into a responsive, low-poly soccer training arena where health directly influences running speed, kicking force, posture, and stamina. Mistakes (hitting cones or missing shots) penalize your health, creating an engaging, gamified feedback loop.
+
+<img width="1602" height="713" alt="image" src="https://github.com/user-attachments/assets/75913c7e-85a7-406a-8e05-acd2a3679422" />
+<img width="1592" height="664" alt="image" src="https://github.com/user-attachments/assets/11833c92-28e9-4e88-aa42-6738d75c2eaf" />
 
 ---
 
